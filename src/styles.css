@@ -1,0 +1,28 @@
+@import url('https://fonts.cdnfonts.com/css/public-pixel');
+
+*{
+    font-size: 40px;
+    font-family: pixels;
+    
+}
+
+
+body{
+    background: linear-gradient(90deg, rgba(21,136,135,1) 5%, rgba(0,0,0,0.8855917366946778) 100%);
+}
+
+div{
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+button{
+    background-color: transparent;
+    border-radius: 10px;
+    
+}
+    
+input{
+    border-radius: 10px;
+}
